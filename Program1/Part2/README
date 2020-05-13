@@ -1,0 +1,12 @@
+To run this program, open terminal in folder directory:
+	1) Type:
+		make
+	then hit enter.
+	2) Type:
+		./rps
+	then hit enter.
+	3) Enter a truth statement and then hit enter.
+
+This program will only run one truth statement and then terminate. 
+Repeat steps 2 and 3 to run different statements.
+	

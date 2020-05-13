@@ -1,0 +1,15 @@
+To create executable, first open command prompt in folder directory, then run:
+	g++ part1.cpp  -o run
+To run exececutable, must be in folder directory:
+	./run
+
+Notes:
+
+	This program will not allow referencing a variable before assignment.
+		example:
+			Input: a=b;b=3;!b.
+			Output: exception
+	However, it is allowed for print.
+		example: 
+			Input: !c;c=3;. 
+			Output : c=3
